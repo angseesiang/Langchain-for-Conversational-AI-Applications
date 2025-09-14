@@ -28,7 +28,7 @@ The chatbot takes user input, processes it with LangChain's
 ### 1. Clone this repository
 
 ``` bash
-git clone https://github.com/your-username/langchain-chatbot.git
+git clone https://github.com/angseesiang/langchain-chatbot.git
 cd langchain-chatbot
 ```
 
